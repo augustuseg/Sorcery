@@ -7,8 +7,8 @@ There are a few cards released so far.
 Also to see how the player can use it to have a battle with friend, here's the manual:
 
 Commands:
-help -- Display this message.
-end -- End the current player’s turn.
+help -- Display this message. <br />
+end -- End the current player’s turn.<br />
 quit -- End the game.
 attack minion other-minion -- Orders minion to attack other-minion.
 attack minion -- Orders minion to attack the opponent.
