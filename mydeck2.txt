@@ -1,0 +1,11 @@
+Fire Elemental
+Potion Seller
+Novice Pyromancer
+Apprentice Summoner
+Unsummon
+Recharge
+Disenchant
+Raise Dead
+Blizzard
+Giant Strength
+Magic Fatigue
